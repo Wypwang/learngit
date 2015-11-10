@@ -1,4 +1,5 @@
 merge 管理
 branch 分支
-directory 目录
+working directory 工作区
 match 匹配
+stage 暂存区
