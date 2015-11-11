@@ -5,3 +5,4 @@ match 匹配
 stage 暂存区
 git push origin master  同步到github
 git diff 查看修改的内容
+哈哈，呵呵，嘿嘿
