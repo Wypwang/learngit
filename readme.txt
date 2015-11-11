@@ -3,4 +3,5 @@
 wow wow  wow!
 i am super man
 so what
-今天是购物狂欢节
+今天是购物狂欢节 and 今天是光棍节
+
