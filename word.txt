@@ -4,3 +4,4 @@ working directory 工作区
 match 匹配
 stage 暂存区
 git push origin master  同步到github
+git diff 查看修改的内容
