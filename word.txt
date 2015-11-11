@@ -3,3 +3,4 @@ branch 分支
 working directory 工作区
 match 匹配
 stage 暂存区
+git push origin master  同步到github
